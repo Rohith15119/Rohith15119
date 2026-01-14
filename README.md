@@ -68,7 +68,12 @@
   <img src="https://streak-stats.demolab.com?user=Rohith15119&theme=tokyonight" />
 </p>
 
-![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohith15119&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<details>
+
+<img align="left" alt="Rohith's Github Stats" src="https://github-readme-stats-git-master-v-rohiths-projects.vercel.app/api?username=Rohith15119&show_icons=true&hide_border=true" />
+
+</details>
+
 ---
 
 ## ✍️ Blog Posts
