@@ -70,7 +70,7 @@
 
 <details>
 
-<img align="left" alt="Rohith's Github Stats" src="https://github-readme-stats-git-master-v-rohiths-projects.vercel.app/api?username=Rohith15119&show_icons=true&hide_border=true" />
+<img align="left" alt="Rohith's Github Stats" src="https://github-readme-stats-hk3jg6jwc-v-rohiths-projects.vercel.app/api?username=Rohith15119&show_icons=true&hide_border=true" />
 
 </details>
 
