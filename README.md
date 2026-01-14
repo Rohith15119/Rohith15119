@@ -1,11 +1,20 @@
 <!-- HEADER -->
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#58a6ff;">Vengala Rohith</span>
-</h1>
+<h1 align="center">Hi 👋, I'm</h1>
 
-<h3 align="center">
-  🚀 Full Stack Developer | TypeScript • React • Node.js • MongoDB
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Vengala+Rohith" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,mongodb,express" 
+       style="transition: transform 0.3s ease;"
+       onmouseover="this.style.transform='scale(1.1)'"
+       onmouseout="this.style.transform='scale(1)'" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Modern+Frontend+%26+Backend+Engineer;Open+Source+Contributor+%F0%9F%94%A5;Always+Learning+New+Things" />
@@ -27,15 +36,35 @@
 - 👯 Open to collaborating on **Open Source & Real-World Projects**
 - ⚡ Fun fact: *I enjoy debugging code almost as much as writing it 😄*
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58a6ff,100:a855f7" />
+</p>
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Rohith15119?tab=repositories">
+    <img src="https://img.shields.io/badge/🔎%20View%20All%20Repositories-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <em>
+    From frontend-focused React applications to scalable backend APIs,
+    each project is built with clean architecture, performance,
+    and real-world best practices in mind.
+  </em>
+</p>
+
 ---
 
-## 🚀 Projects
+### ✨ What You’ll Find Here
 
-🔗 **[Explore All My Projects](https://github.com/Rohith15119?tab=repositories)**  
+- ⚛️ **Modern Frontend Apps** — React, TypeScript, responsive UI
+- ⚙️ **Backend Systems** — Node.js, Express, REST APIs
+- 🗄️ **Databases** — MongoDB & SQL with optimized schemas
+- 🧪 **Clean Code** — maintainable structure & best practices
 
-> From frontend-heavy React apps to robust backend APIs — always built with clean architecture and best practices.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -73,11 +102,6 @@
   alt="Rohith's GitHub Stats"
   src="https://github-readme-stats-edp1.vercel.app/api?username=Rohith15119&show_icons=true&hide_border=true&theme=radical"/>
 </p>
-
-<br/>
-<br/>
-<br/>
-<br/>
 
 ---
 
