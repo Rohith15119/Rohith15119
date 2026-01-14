@@ -67,13 +67,17 @@
   <img src="https://streak-stats.demolab.com?user=Rohith15119&theme=tokyonight" />
 </p>
 
-<img
-  align="left"
+<p align="center">
+  <img
+  align="center"
   alt="Rohith's GitHub Stats"
-  src="https://github-readme-stats-edp1.vercel.app/api?username=Rohith15119&show_icons=true&hide_border=true&theme=radical"
-/>
+  src="https://github-readme-stats-edp1.vercel.app/api?username=Rohith15119&show_icons=true&hide_border=true&theme=radical"/>
+</p>
 
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 ---
 
