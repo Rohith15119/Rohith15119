@@ -63,24 +63,19 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohith15119&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rohith15119&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohith15119&theme=tokyonight" />
-</p>
-
+![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohith15119&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ---
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohith15119&theme=tokyonight&rows=1&column=6" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=rohith15119&theme=tokyonight&rows=1&column=6" /> -->
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
