@@ -183,7 +183,9 @@
 </p>
 
 <p align="center">
+  <h2 align="center">
   <strong>✨ “Code is not just code — it’s a craft.” ✨</strong>
+  </h2>
 </p>
 
 <p align="center">
