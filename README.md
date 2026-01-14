@@ -10,6 +10,13 @@
 </p>
 
 <p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22c55e,50:58a6ff,100:a855f7&animation=fadeIn"
+  />
+</p>
+
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nodejs,mongodb,express" 
        style="transition: transform 0.3s ease;"
        onmouseover="this.style.transform='scale(1.1)'"
@@ -26,7 +33,12 @@
   <img src="https://img.shields.io/github/stars/rohith15119?label=Stars&style=flat-square" />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22c55e,50:58a6ff,100:a855f7&animation=fadeIn"
+  />
+</p>
+
 
 ## 🧠 About Me
 
@@ -56,7 +68,11 @@
   </em>
 </p>
 
----
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22c55e,50:58a6ff,100:a855f7&animation=fadeIn"
+  />
+</p>
 
 ### ✨ What You’ll Find Here
 
@@ -88,7 +104,11 @@
   <img src="https://skillicons.dev/icons?i=git,linux,aws,gcp" />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22c55e,50:58a6ff,100:a855f7&animation=fadeIn"
+  />
+</p>
 
 ## 📊 GitHub Stats
 
@@ -103,7 +123,12 @@
   src="https://github-readme-stats-edp1.vercel.app/api?username=Rohith15119&show_icons=true&hide_border=true&theme=radical"/>
 </p>
 
----
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22c55e,50:58a6ff,100:a855f7&animation=fadeIn"
+  />
+</p>
+
 
 ## ✍️ Blog Posts
 
@@ -112,7 +137,12 @@
 
 > 📌 Blogs are automatically updated using GitHub Actions.
 
----
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22c55e,50:58a6ff,100:a855f7&animation=fadeIn"
+  />
+</p>
+
 
 ## 📫 Connect With Me
 
@@ -131,7 +161,12 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22c55e,50:58a6ff,100:a855f7&animation=fadeIn"
+  />
+</p>
+
 
 ## 📄 Resume
 
@@ -141,9 +176,19 @@
   </a>
 </p>
 
-
----
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22c55e,50:58a6ff,100:a855f7&animation=fadeIn"
+  />
+</p>
 
 <p align="center">
   <strong>✨ “Code is not just code — it’s a craft.” ✨</strong>
 </p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22c55e,50:58a6ff,100:a855f7&animation=fadeIn"
+  />
+</p>
+
