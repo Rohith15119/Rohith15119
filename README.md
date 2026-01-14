@@ -63,16 +63,17 @@
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rohith15119&theme=tokyonight" />
 </p>
 
-<details>
+<img
+  align="left"
+  alt="Rohith's GitHub Stats"
+  src="https://github-readme-stats-edp1.vercel.app/api?username=Rohith15119&show_icons=true&hide_border=true&theme=radical"
+/>
 
-<img align="left" alt="Rohith's Github Stats" src="https://github-readme-stats-hk3jg6jwc-v-rohiths-projects.vercel.app/api?username=Rohith15119&show_icons=true&hide_border=true" />
 
-</details>
 
 ---
 
