@@ -171,7 +171,7 @@
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1vlyl7JxzZig8ZwdHhLvnm2AlKn5O3XGV/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1s_NOGn_59DMV5ovwDGl_FCKeCYXOpVfc/view?usp=sharing">
     <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
